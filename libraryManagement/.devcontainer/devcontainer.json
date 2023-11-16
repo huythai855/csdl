@@ -1,0 +1,5 @@
+{
+    "name": "PHP Dev Container",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [80]
+}
